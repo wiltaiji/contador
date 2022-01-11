@@ -1,0 +1,28 @@
+#contador {
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;  
+  margin: auto;
+  width: 600px;
+  height: 280px;
+
+}
+
+body {
+
+    background-color: aqua;
+}
+
+#corrente {
+
+    font-style: italic;
+    font-size: 30px;
+}
+
+button {
+
+    background-color: blue;
+    border-radius: 60%;
+    border-style: none;
+}
